@@ -1,0 +1,2 @@
+# sort_by_zero_shot
+这是利用rpc写的一个后端程序，输入标签和topk，然后利用zero_shot得到排序top_k的句子
