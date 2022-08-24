@@ -1,5 +1,6 @@
 # sort_by_zero_shot
-这是利用rpc写的一个后端程序，输入标签和topk，然后利用zero_shot得到排序top_k的句子
+这是利用rpc写的一个后端程序，输入标签和topk，然后利用zero_shot_classification得到排序top_k的句子
+# json文件即为我们的数据集
 # 使用说明
 输入：
 用户输入标签和想要看到句子个数
